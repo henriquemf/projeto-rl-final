@@ -33,3 +33,4 @@ Além disso, espera-se um avanço nos conhecimentos de cibersegurança pelos int
 2. Múltiplos autores. **CyberBattleSim**. Publicado em: 8 de abril de 2021. Disponível em: https://github.com/microsoft/CyberBattleSim
 3. Múltiplos autores. **Employing Deep Reinforcement Learning to Cyber-Attack Simulation for Enhancing Cybersecurity**. Publicado em: 30 de janeiro de 2024. Disponível em: https://www.mdpi.com/2079-9292/13/3/555
 4. Múltiplos autores. **A Multiagent CyberBattleSim for RL Cyber Operation Agents**. Publicado em: abril de 2023. Disponível em: https://www.researchgate.net/publication/370213244_A_Multiagent_CyberBattleSim_for_RL_Cyber_Operation_Agents
+5. Múltiplos autores. **Improved Deep Recurrent Q-Network of POMDPs for Automated Penetration Testing**. Publicado em: 14 de outubro de 2022. Disponível em: https://www.mdpi.com/2076-3417/12/20/10339
