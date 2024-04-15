@@ -7,7 +7,7 @@
 - [Nicolas Maciel Queiroga](https://github.com/NicolasQueiroga)
 
 ## Objetivo do projeto
-O objetivo desse projeto se baseia na utilização dos aprendizados obtidos durante o curso de Reinforcement Learning envolvendo o conhecimento de algoritmos que utilizam uma Q-Table para um ambiente denominado CyberBattleSim, explorando estratégias de aprendizado por reforço para aprimorar o desempenho dos agentes (atacante e defensor) no ambiente. Isso inclui a melhoria da capacidade de detecção de ataques, a eficácia na mitigação de ameaças e a otimização das ações dos agentes para atingir seus objetivos. 
+O objetivo desse projeto se baseia na utilização dos aprendizados obtidos durante o curso de Reinforcement Learning envolvendo o conhecimento de algoritmos que utilizam uma Q-Table para um ambiente denominado `CyberBattleSim`, explorando estratégias de aprendizado por reforço para aprimorar o desempenho dos agentes (atacante e defensor) no ambiente. Isso inclui a melhoria da capacidade de detecção de ataques, a eficácia na mitigação de ameaças e a otimização das ações dos agentes para atingir seus objetivos. 
 
 Nesse ambiente, há dois agentes que poderão ser utilizados em uma rede extensa e complexa de computadores: atacante e defensor. Cada agente possui um determinado `action space` e um `observation space`.
 
