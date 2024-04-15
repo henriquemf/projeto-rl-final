@@ -27,3 +27,9 @@ Nesse ambiente, há dois agentes que poderão ser utilizados em uma rede extensa
 É esperado nesse projeto uma análise mais aprofundada sobre o ambiente e um treinamento que resulte em agentes de ataque e defesa mais eficientes e adaptáveis, capazes de lidar com uma variedade de cenários de ameaça no ambiente CyberBattleSim. Isso pode incluir uma redução no tempo necessário para alcançar os objetivos, uma melhoria na detecção e resposta a ataques e uma maior resiliência do sistema em face de ameaças emergentes. 
 
 Além disso, espera-se um avanço nos conhecimentos de cibersegurança pelos integrantes do projeto e que esse projeto sirva como base para diversas ramificações possíveis envolvendo esse tema. 
+
+## Referências bibliográficas para o projeto:
+1. Múltiplos autores. **Bridging Automated to Autonomous Cyber Defense: Foundational Analysis of Tabular Q-Learning**. Publicado em: 11 de novembro de 2022. Disponível em: https://dl.acm.org/doi/pdf/10.1145/3560830.3563732
+2. Múltiplos autores. **CyberBattleSim**. Publicado em: 8 de abril de 2021. Disponível em: https://github.com/microsoft/CyberBattleSim
+3. Múltiplos autores. **Employing Deep Reinforcement Learning to Cyber-Attack Simulation for Enhancing Cybersecurity**. Publicado em: 30 de janeiro de 2024. Disponível em: https://www.mdpi.com/2079-9292/13/3/555
+4. Múltiplos autores. **A Multiagent CyberBattleSim for RL Cyber Operation Agents**. Publicado em: abril de 2023. Disponível em: https://www.researchgate.net/publication/370213244_A_Multiagent_CyberBattleSim_for_RL_Cyber_Operation_Agents
